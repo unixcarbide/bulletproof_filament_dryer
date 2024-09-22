@@ -58,44 +58,16 @@ except:
 def tempcolor(temp=0.0):
     '''
     Given a temperature float in C, return a hexadecimal color value.
-    Start blue,
-        ffa500
-        150eea
-        2b1bd4
-        4029bf
-        5537aa
-        6a4595
-        805280
-        95606a
-        aa6e55
-        bf7c40
-        d48a2b
-        ea9715
-        ffa500
-    transition orange,
-        ff9700
-        ff8a00
-        ff7c00
-        ff6e00
-        ff6000
-        ff5200
-        ff4500
-        ff3700
-        ff2900
-        ff1b00
-        ff0e00
-        ff0000
-    end red, then yellow freak out,
-        e7ff00
+    Start blue, transition orange, end red, then yellow freak out.
     https://www.colorhexa.com/e7ff00
     '''
     ti = int(temp)
 
     if temp <= 0:
-        return 0x8c8c8c
+        return 0x50eff5
     # starting blue,
     elif temp <= 18:
-        return 0xffa500
+        return 0x0ee3ea
     elif temp <= 21:
         return 0x150eea
     elif temp <= 23:
