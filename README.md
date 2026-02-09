@@ -1,5 +1,7 @@
 # Bulletproof: A Filament Dryer for 3d printing.
 
+![WIP 3d model](./img/Screenshot.2026-01.png)
+
 ---
 ## Files included in this repo:
 
