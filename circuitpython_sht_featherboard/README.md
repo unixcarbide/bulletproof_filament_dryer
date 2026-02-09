@@ -23,8 +23,8 @@ UART Serial:
 
 1) Flash the Featherboard with current CircuitPython
 2) Plug the SHT45 board in via built-in i2c (my code does not use the GPIO, it's used for UART/serial instead)
-3) from this directory, run `make all`, or,
-  3) Copy `main.py`, `lib/` and `font/` onto the CIRCUITPYTHON volume and wait for it to complete.
+    3) from this directory, run `make all`, or,
+    4) Copy `main.py`, `lib/` and `font/` onto the CIRCUITPYTHON volume and wait for it to complete.
 
 Your board should light up showing the RH/Temp on screen, and pumping output via GPIO serial headers.
 
