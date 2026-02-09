@@ -1,19 +1,30 @@
-Bulletproof, A Filament Dryer for 3d printing.
+# Bulletproof: A Filament Dryer for 3d printing.
 
-After burning through my third filament dryer, I got fed up with the layers of planned obsolescence baked into cheap products (and expensive products with cheap COTS parts).
+---
+## Files included in this repo:
 
-I want my filament dryer to just work, no fuss, just do it's job so I can focus on printer bits.
+- TODO: Original 3d files (I used SketchUp, which is trivially import-able into Fusion360).
+- TODO: Ammo case specifications and drawings for the case I used.
+- TODO: STL files for all the printed parts, (labeled as internal or external)
+- *DONE* CircuitPython code which I'm running on the Featherboard https://learn.adafruit.com/esp32-s3-reverse-tft-feather/overview
+- TODO: Complete BOM as CSV (with part urls/sources for all but the most common components)
+
+---
+## Why?
+After burning through my *third* filament dryer, I got fed up with the natural layers of planned obsolescence baked into cheap products (and expensive products with cheap COTS parts).
+
+I want my filament dryer to just work, no fuss, just do it's job so I can focus on other printing bits.
 
 So I built this relatively quickly.
-*This is not a maintained project*, I do not plan to build more of this any time soon.  Depending on what parts are available to you, this exact build could prove prohibitively expensive.
+*This is not a community/maintained project*, I'm just posting what I built to suit my own needs.  I do not plan to build more of this any time soon.  Depending on what parts are available to you, this exact build could prove prohibitively expensive.
 
-This is not an MMU/AMS type system, it's just a very beefy, and has features I want. 
+# This is not an MMU/AMS type system, it's just a very beefy, and has features I want. 
 
 I'm posting this as open source for inspiration, but if you build it exactly, well that's awesome! 
-If it inspires your build, I'd love to hear about it!  <unixcardbide@blackhole.lol>
+If this thing inspires your build, I'd love to hear about it!  <unixcardbide@blackhole.lol>
 
---
-Dehydrator Requirements (based on my experiences):
+---
+## Dehydrator Requirements (based on my experiences):
 
 - Dehydrate filament for most "common" filaments.
 - Feed directly into printer (like many products/designs do).
@@ -55,20 +66,9 @@ I do however, want to be able to write macros that do things like: "if the RH of
 This may not be the design you want, but it's absolutely the design I want.
 
 ---
-Quirks
+## Quirks
 
 - To power the ESP32/featherboard, USBC is best, (5v).  I recycled an old Apple USB power supply to do this one job.
 - All hardware except the featherboard is 110v.  While this eliminates any need for a transformer, as tradeoff, some hardware is a bit clunky or uncommon. (e.g. the 110v fans, or solenoids).
 - VERY FEW printed parts are inside the heated chamber, these parts I printed using ASA.  Everything outside the chamber can be any filament you wish, I used PLA+.
-
----
----
-Files included in this repo:
-
-- Original 3d files (I used SketchUp, which is trivially import-able into Fusion360).
-- Ammo case specifications and drawings for the case I used.
-- STL files for all the printed parts, (labeled as internal or external) 
-- CircuitPython code which I'm running on the Featherboard https://learn.adafruit.com/esp32-s3-reverse-tft-feather/overview
-- Complete BOM as CSV (with part urls/sources for all but the most common components)
-
 
