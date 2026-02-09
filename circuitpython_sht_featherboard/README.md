@@ -19,7 +19,7 @@ UART Serial:
 - [Adafruit ESP32-S3 Reverse TFT Feather](https://learn.adafruit.com/esp32-s3-reverse-tft-feather)
 - [Sensirion SHT45 Temperature & Humidity Sensors](https://learn.adafruit.com/adafruit-sht40-temperature-humidity-sensor)
 
-## Rogh steps to lighting this up yourself (mileage varies, many ways to do this):
+## Overview for lighting this up yourself (mileage varies, many ways to do this):
 
 1) Flash the Featherboard with current CircuitPython
 2) Plug the SHT45 board in via built-in i2c (my code does not use the GPIO, it's used for UART/serial instead)
