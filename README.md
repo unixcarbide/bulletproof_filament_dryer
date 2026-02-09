@@ -1,8 +1,5 @@
 # Bulletproof: A Filament Dryer for 3d printing.
 
-![WIP 3d model](./img/Screenshot.2026-01.png)
-
----
 ## Files included in this repo:
 
 - *DONE* CircuitPython code which I'm running to [measure, display, and output precision Humidity/Temperature](./circuitpython_sht_featherboard)
