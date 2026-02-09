@@ -3,10 +3,10 @@
 ---
 ## Files included in this repo:
 
+- *DONE* CircuitPython code which I'm running to [measure, display, and output precision Humidity/Temperature](./circuitpython_sht_featherboard)
 - TODO: Original 3d files (I used SketchUp, which is trivially import-able into Fusion360).
 - TODO: Ammo case specifications and drawings for the case I used.
 - TODO: STL files for all the printed parts, (labeled as internal or external)
-- *DONE* CircuitPython code which I'm running on the Featherboard https://learn.adafruit.com/esp32-s3-reverse-tft-feather/overview
 - TODO: Complete BOM as CSV (with part urls/sources for all but the most common components)
 
 ---
