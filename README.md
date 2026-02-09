@@ -11,6 +11,8 @@
 - TODO: STL files for all the printed parts, (labeled as internal or external)
 - TODO: Complete BOM as CSV (with part urls/sources for all but the most common components)
 
+![WIP 3d model](./img/Screenshot.2026-01.png)
+
 ---
 ## Why?
 After burning through my *third* filament dryer, I got fed up with the natural layers of planned obsolescence baked into cheap products (and expensive products with cheap COTS parts).
