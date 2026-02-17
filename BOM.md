@@ -10,7 +10,7 @@ Any suggestions for hardware improvements are quite welcome, any time!
 | 1   | M116A2 40MM Ammo Can, U.S. Military Surplus   | https://ammocanman.com/products/40mm-ammo-can-used-grade-1 NSN: 8140-00-739-0233          |
 | 4   | 1/4 Inch NC Solenoid Valve 110V AC 100%svc    | https://www.ebay.com/itm/116907337531                                                     |
 | 4   | 1/4" Male to 1/4" Male NPT Hex Nipple         | https://www.amazon.com/dp/B097DK333B                                                      |
-| --- | --------------------------------------------- | ----------------------------------------------------------------------------------------- |
+|     |                                               |                                                                                           | 
 | 1   | DPDT Heavy Duty Toggle Switch 20A 125V        | https://www.amazon.com/dp/B087NCLX3W                                                      |
 | 1   | 95°C/203°F NC Switch Thermal Protector        | https://www.amazon.com/dp/B0FF9939LY                                                      |
 | 1   | 250 16A 30-85C Capillary Thermostat           | https://www.amazon.com/dp/B00AH8DA5W                                                      |
