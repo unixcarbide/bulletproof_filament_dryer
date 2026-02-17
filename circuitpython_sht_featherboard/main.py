@@ -140,6 +140,7 @@ white = 0xFFFFFF
 while True:
     try:
         temperature, relative_humidity = sht.measurements
+        sensor_err = False
     except:
         temperature, relative_humidity = 0.0, 99.0
         sensor_err = True
