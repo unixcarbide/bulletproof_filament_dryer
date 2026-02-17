@@ -3,10 +3,10 @@
 ## Files included in this repo:
 
 - *DONE* CircuitPython code which I'm running to [measure, display, and output precision Humidity/Temperature](./circuitpython_sht_featherboard)
+- *DONE* [Bill of Materials](./BOM.md)
 - TODO: Original 3d files (I used SketchUp, which is trivially import-able into Fusion360).
-- TODO: Ammo case specifications and drawings for the case I used.
 - TODO: STL files for all the printed parts, (labeled as internal or external)
-- *DONE* [Complete BOM](./BOM.md)
+- TODO: Ammo case specifications and drawings for the case I used.
 
 ![WIP 3d model](./img/Screenshot.2026-01.png)
 
@@ -16,7 +16,7 @@ After burning through my *third* filament dryer, I got fed up with the natural l
 
 I want my filament dryer to just work, no fuss, just do it's job so I can focus on other printing bits.
 
-So I built this relatively quickly.
+So, I built this relatively quickly.
 *This is not a community/maintained project*, I'm just posting what I built to suit my own needs.  I do not plan to build more of this any time soon.  Depending on what parts are available to you, this exact build could prove prohibitively expensive.
 
 # This is not an MMU/AMS type system, it's just a very beefy, and has features I want. 
@@ -24,6 +24,15 @@ So I built this relatively quickly.
 I'm posting this as open source for inspiration, but if you build it exactly, well that's awesome! 
 If this thing inspires your build, I'd love to hear about it!  <unixcardbide@blackhole.lol>
 
+## In fact, I would strongly reccommend buyingi something instead of building this,
+
+When I started making this prototype, I had no idea West3d was about to release something very robust, with radiant heat element, **very close to what I wanted**,
+[West3D Filament Toaster - High Temperature Filament Dryer for all filament types](https://west3d.com/products/west3d-filament-toaster-high-temperature-filament-dryer-for-all-filament-types)
+I may not have built mine if I knew about this nice build, yet, it does not have 3 things I want:
+- Klipper telemetry/control
+- Theirs has 24h cutoff switch 
+- Theirs is not at all a drybox when it shuts off
+- Precsion RH/Temp telemetry
 
 ---
 ## Features
