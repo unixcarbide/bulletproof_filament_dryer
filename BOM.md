@@ -15,17 +15,17 @@ Any suggestions for hardware improvements are quite welcome, any time!
 | 1   | 95°C/203°F NC Switch Thermal Protector        | https://www.amazon.com/dp/B0FF9939LY                                                      |
 | 1   | 250 16A 30-85C Capillary Thermostat           | https://www.amazon.com/dp/B00AH8DA5W                                                      |
 | 1   | Inlet Power Plug Socket C14                   | common                                                                                    |
-| --- | --------------------------------------------- | ----------------------------------------------------------------------------------------- |
+|     |                                               |                                                                                           | 
 | 1   | 120V 150W Silicone Heating Pad w Therm, 5x4"  | https://www.amazon.com/dp/B0CLXPRR6P                                                      |
 | 2   | GDSTIME EC Blower 75x30mm, AC 110V-240V       | https://www.amazon.com/dp/B0CWP41T9L                                                      |
 | 8   | Ceramic Tube 10mm x 10mm                      | https://www.amazon.com/dp/B0DGPSMLX5                                                      |
 | 2   | 6mm 110V-220VAC LED Indicator Light           | https://www.amazon.com/dp/B08LDDS59D                                                      |
-| --- | --------------------------------------------- | ----------------------------------------------------------------------------------------- |
+|     |                                               |                                                                                           | 
 | 1   | Adafruit ESP32-S3 Reverse TFT Feather         | https://www.adafruit.com/product/5691                                                     |
 | 1   | Sensirion SHT45 Precision RH/Temp, STEMMA QT  | https://www.adafruit.com/product/6174                                                     |
 | 1   | USBC 90deg. to USB 2.0 cable                  | https://www.amazon.com/dp/B096YCP762                                                      | 
 | 2   | 8 Pin Plug and Socket Connector 16mm          | https://www.amazon.com/dp/B01MTSNNUB                                                      |
-| --- | --------------------------------------------- | ----------------------------------------------------------------------------------------- |
+|     |                                               |                                                                                           | 
 | 4   | 8mm x 406mm Stainless Steel Rod               | https://www.amazon.com/dp/B0F1LXQYWV                                                      |
 | 1   | Silicone Tubing,8mm ID x 12mm OD Pure Silicon | https://www.amazon.com/dp/B0DSQQXLGW                                                      |
 | 8   | 608 Ball Bearings (Skateboard bearings)       | common                                                                                    |
