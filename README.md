@@ -24,7 +24,7 @@ So, I built this relatively quickly.
 I'm posting this as open source for inspiration, but if you build it exactly, well that's awesome! 
 If this thing inspires your build, I'd love to hear about it!  <unixcardbide@blackhole.lol>
 
-## In fact, I would strongly reccommend buyingi something instead of building this,
+## In fact, I would strongly reccommend buying something instead of building this,
 
 When I started making this prototype, I had no idea West3d was about to release something very robust, with radiant heat element, **very close to what I wanted**,
 [West3D Filament Toaster - High Temperature Filament Dryer for all filament types](https://west3d.com/products/west3d-filament-toaster-high-temperature-filament-dryer-for-all-filament-types)
@@ -32,7 +32,7 @@ I may not have built mine if I knew about this nice build, yet, it does not have
 - Klipper telemetry/control
 - Theirs has 24h cutoff switch 
 - Theirs is not at all a drybox when it shuts off
-- Precsion RH/Temp telemetry
+- Precsion RH/Temp measurements
 
 ---
 ## Features
@@ -45,7 +45,7 @@ I may not have built mine if I knew about this nice build, yet, it does not have
 - Solenoid valves allow humidity-release/recirculation, valves close when heat/power is off, to prevent humidity from rushing back in.
   - PTFE tubes (and filament down their middle) is the only clear hygroscopic "leak" in the box, and relatively small.
 
-- RH/Temp high precision monitor via Sensirion/SHT sensor, and hackable ESP32 display.
+- RH/Temp high precision monitor via Sensirion/SHT sensor, (NIST Traceable!), and hackable ESP32 display.
 
 - Can operate in Manual or "Serial" modes,
   - Manual, simple as possible.
